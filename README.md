@@ -1,16 +1,4 @@
-# Flask Web App Note
-
-## Setup & Installtion
-
-Make sure you have the latest version of Python installed.
-
-## Running The App
-
-```bash
-python main.py
-```
-
-## Viewing The App
-
-Go to `http://127.0.0.1:5000`
-# WebNote
+#Flask Web App Note
+* Easy way to remember your daily goals or just write something in your personal mini-note web app
+* Sign up and go ahead!
+* Add, delete, remember. Fast and simple, this has nothing on it that you don't need.
